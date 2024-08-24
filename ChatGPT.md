@@ -40,7 +40,7 @@
 https://www.asahi.com/articles/ASR5Z2RWPR5ZUHBI004.html
 https://www.nytimes.com/2023/05/27/nyregion/avianca-airline-lawsuit-chatgpt.html
 
-##　プロンプトとプロンプトエンジニアリング
+## プロンプトとプロンプトエンジニアリング
 **プロンプトとは**
 質問や命令をプロンプトという
 **プロンプトエンジニアリング**
