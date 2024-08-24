@@ -68,7 +68,6 @@ https://www.nytimes.com/2023/05/27/nyregion/avianca-airline-lawsuit-chatgpt.html
 
 ### TIPS
 - プロンプトは編集できる
-    ![ペンのマークで編集](images/gpt01.png)
 
 - プロンプト履歴
     - プロンプトは履歴が残る
