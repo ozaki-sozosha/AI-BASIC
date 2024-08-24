@@ -59,10 +59,10 @@ https://www.nytimes.com/2023/05/27/nyregion/avianca-airline-lawsuit-chatgpt.html
 
 **前提情報・指示・制約条件**
 
-####　プロンプトのコメントアウト
+### プロンプトのコメントアウト
 \#をつける
 
-####　出力形式の指定
+###　出力形式の指定
 - 箇条書き
 - 表形式
 
