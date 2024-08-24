@@ -62,11 +62,11 @@ https://www.nytimes.com/2023/05/27/nyregion/avianca-airline-lawsuit-chatgpt.html
 ### プロンプトのコメントアウト
 \#をつける
 
-###　出力形式の指定
+### 出力形式の指定
 - 箇条書き
 - 表形式
 
-###　TIPS
+### TIPS
 - プロンプトは編集できる
     ![ペンのマークで編集](images/gpt01.png)
 
